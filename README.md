@@ -1,4 +1,7 @@
-### Hi there 👋
+## Hi there 👋
+### I’m Chris and I'm a full stack developer
+
+<img src="https://c2dev.co.uk/static/chris-1-c4e87f16ec588ed97afafa206e70b2ae.svg" style="max-width:300px; width:300px" />
 
 <!--
 **chrismclarke/chrismclarke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
