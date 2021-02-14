@@ -1,7 +1,12 @@
 ## Hi there 👋
 ### I’m Chris and I'm a full stack developer
 
-<img src="https://c2dev.co.uk/static/chris-1-c4e87f16ec588ed97afafa206e70b2ae.svg" style="max-width:300px; width:300px" />
+<img src="https://c2dev.co.uk/static/chris-1-c4e87f16ec588ed97afafa206e70b2ae.svg" width="500" />
+
+### I work with projects that seek to make the world better.
+
+### I'm strongly interested in education, the environment, food security and global health issues.
+
 
 <!--
 **chrismclarke/chrismclarke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
