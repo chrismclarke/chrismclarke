@@ -5,7 +5,8 @@
 
 ### I work with projects that seek to make the world better.
 
-### I'm strongly interested in education, the environment, food security and global health issues.
+### To find out about more about projects I've worked on feel free to browse my repos or visit:   
+### https://c2dev.co.uk
 
 
 <!--
